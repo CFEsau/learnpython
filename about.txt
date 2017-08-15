@@ -1,0 +1,2 @@
+Exercises from "Learn pythong the hard way".
+Solutions at https://github.com/wzpan/Learn-Python-The-Hard-Way/tree/master/Python2
